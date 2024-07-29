@@ -1,4 +1,7 @@
-Hey! This app will simplify the task of always looking at the last approved cache. Normally this would be handled by the pipeline but in many smaller companies there is not this kind of automization. The idea is that you will be able to open a scene and import all the latest assets, caches, anims and it will warn you later on if something is not the most recent approved. You will see description, date and comments of all the tasks
+Hey!
+This app will allow you to have quick "toon looking" renders. It will create a cop network and with the UI you will be able to modify the important values. Also will have presets for toon looking materials so you can have great results quickly. Also presets for volumes and other kind of FX. A camera that allows you to render framerate variance will also be part of the app.
+
+More updates coming soon.
 
 Thanks for your time!
 
