@@ -14,7 +14,7 @@ from PySide2.QtWidgets import QMessageBox
 from PySide2 import QtWidgets, QtGui, QtUiTools
 
 DIR_PATH = r'D:\Houdini\Python_Houdini_Advanced\cartoon render houdini'
-UI_PATH  = DIR_PATH + "/04_ui/Cartoon_Render_UI_v01.ui"
+UI_PATH  = DIR_PATH + "/00_app/ui/Cartoon_Render_UI_v01.ui"
 
 class CartoonRender:
     def __init__(self):
